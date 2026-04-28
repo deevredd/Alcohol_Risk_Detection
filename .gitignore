@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data artifacts / large files
+alcohol-detection/bar+crawl+detecting+heavy+drinking.zip
+alcohol-detection/data/raw/
+alcohol-detection/data/processed/
+alcohol-detection/models/
+alcohol-detection/reports/
